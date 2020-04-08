@@ -1,2 +1,3 @@
-# HackerEarth
-My HackerEarth Projects
+# HackerRank
+This is my HackeRank Projects Repo
+Feel free to check out
